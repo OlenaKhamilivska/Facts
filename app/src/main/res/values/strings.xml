@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NumbersApi</string>
+    <string name="Enter_Number">Enter your Number</string>
+    <string name="Fact_Number_Ent">Get fact</string>
+    <string name="Fact_Number_Rand">get fact about random number</string>
+    <string name="Text_For_Fact">Here you will see your fact</string>
+    <string name="Text_For_History">Here you will see your history</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
